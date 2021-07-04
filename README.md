@@ -1,5 +1,2 @@
 # html_css
-<<<<<<< HEAD
-=======
-Intro to HTML and CSS 
->>>>>>> 813534fc77ae444397374d9a74dc4a1079ad556b
+Intro to HTML CSS course at Launch School. Including course projects and practice problems. 
